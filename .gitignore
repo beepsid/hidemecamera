@@ -1,0 +1,7 @@
+# Pose model, downloaded automatically on first run
+models/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
